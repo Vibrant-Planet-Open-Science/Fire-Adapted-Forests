@@ -44,8 +44,9 @@ This repository includes:
 ## 🛠️ Getting Started
 
 ### 1. Clone the Repository
+
 ```bash
-git clone https://github.com/<your-organization>/fire-adapted-forests.git
+git clone https://github.com/Vibrant-Planet-Open-Science/Fire-Adapted-Forests.git
 cd fire-adapted-forests
 ```
 
@@ -58,4 +59,7 @@ Ensure you have R (version 4.1 or later) and the following R packages:
 	•	ggplot2
 
 Install them via CRAN:
-``` install.packages(c("data.table", "tidyverse", "bayestestR", "ggplot2"))```
+
+``` 
+install.packages(c("data.table", "tidyverse", "bayestestR", "ggplot2"))
+```
