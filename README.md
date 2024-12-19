@@ -49,7 +49,7 @@ git clone https://github.com/<your-organization>/fire-adapted-forests.git
 cd fire-adapted-forests
 ```
 
-###2. Install Required Dependencies
+### 2. Install Required Dependencies
 
 Ensure you have R (version 4.1 or later) and the following R packages:
 	•	data.table
