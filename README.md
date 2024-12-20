@@ -2,17 +2,21 @@
 
 Welcome to the repository accompanying the **"Fire Adapted Forests"** publication, which provides evidence for the role of forest treatments in stabilizing carbon storage, reducing wildfire severity, and enhancing resilience in mixed-conifer forests of the Central Sierras.
 
-This repository contains code, data, and workflows for reproducing the analyses presented in the publication, leveraging **dynamic performance benchmarks** and state-of-the-art modeling techniques.
+This repository contains code, data, and workflows for reproducing the analyses presented in the publication, leveraging **dynamic performance baselines** and **natural experimental design** techniques.
 
 
 ## 📝 Citing the Publication
 
 If you use this repository in your work, please cite:
 
-“Fire Adapted Forests: Evidence for Carbon Durability via Wildfire Severity Reduction”
-Authors: [List authors]
-Journal: [Journal name]
-DOI: [Insert DOI]
+[“Up in Smoke?  Evidence for Stabilized Carbon Storage via Operational Resilience in Frequent Fire Forests”](https://osf.io/72rj4)
+
+Authors:
+Ethan Yackulic, Micah Elias, Joe Shannon, Sophie Gilbert, Michael Koontz, Spencer Plumb, Matthew Sloggy, Katharyn Duffy 
+
+Journal: Frontiers in Forests and Global Change
+
+Pre-print DOI: [10.17605/OSF.IO/3UNGR](https://osf.io/3ungr/)
 
 
 ---
