@@ -18,6 +18,7 @@ Journal: Frontiers in Forests and Global Change
 
 Pre-print DOI: [10.17605/OSF.IO/3UNGR](https://osf.io/3ungr/)
 
+S3 data location: s3://vp-open-science/fire-adapted-forests/
 
 ---
 
@@ -25,9 +26,11 @@ Pre-print DOI: [10.17605/OSF.IO/3UNGR](https://osf.io/3ungr/)
 
 This repository includes:
 - **Code**: Scripts for data processing, statistical analysis, and visualization.
-- **Data**: Publicly available datasets, including pre-processed input files for modeling.
 - **Figures**: Scripts to reproduce the publication figures and additional exploratory visualizations.
 - **Documentation**: Detailed instructions for running the analyses and adapting them for other regions.
+
+This repository **does not** includes:
+- **Data**: Publicly available datasets, including pre-processed input files for modeling, are too large for storage on GitHub. We have stored all relevant data in a publicly-viewable S3 link (s3://vp-open-science/fire-adapted-forests/). Simply create a free aws account to access these data.
 
 ---
 
